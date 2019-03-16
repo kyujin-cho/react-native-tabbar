@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/alinz/react-native-tabbar/issues"
   },
-  "homepage": "https://github.com/alinz/react-native-tabbar#readme"
+  "homepage": "https://github.com/alinz/react-native-tabbar#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
 }
